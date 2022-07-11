@@ -1,4 +1,4 @@
-package com.oliversolutions.dev.weather
+package com.oliversolutions.dev.weather.main
 
 import com.squareup.moshi.Json
 

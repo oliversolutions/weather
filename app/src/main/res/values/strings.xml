@@ -9,4 +9,10 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="location_must_be_enabled">Location need to be enabled in order to use this app.</string>
+    <string name="location_could_not_be_found">Location could not be found.</string>
+    <string name="give_location_permission">Give location permission to this app in oder to use it.</string>
+    <string name="login_failed">Login failed</string>
+    <string name="update">Update</string>
+    <string name="error_ocurred_getting_the_location">Error ocurred getting the location</string>
 </resources>
